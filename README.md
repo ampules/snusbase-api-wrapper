@@ -10,13 +10,20 @@
    ```bash
    git clone https://github.com/wrendw/snusbase-api-wrapper.git
    ```
+2. <strong>install correct librarys</strong>:
+   ```python
+   pip install requests
+   ```
+   ```python
+   pip install pystyle
+   ```
 
-2. <strong>input your api key</strong>:
+3. <strong>input your api key</strong>:
    ```python
    snusbase_auth = 'YOUR-KEY'
    ```
 
-3. <strong>done</strong>
+4. <strong>done</strong>
 
 made by <strong>wren</strong> in just 20 minutes.
 discord: <strong>@spyism</strong>
