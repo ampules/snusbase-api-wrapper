@@ -25,6 +25,8 @@
 
 4. <strong>done</strong>
 
+![snusbase](showcase.jpg)
+
 made by <strong>wren</strong> in just 20 minutes.
 discord: <strong>@spyism</strong>
 website: <strong><a href="https://wren.lol/">wren.lol</a></strong>
