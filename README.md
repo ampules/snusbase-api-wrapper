@@ -1,6 +1,6 @@
 # Snusbase API Wrapper
 
-A custom-built API wrapper for the [Snusbase API](https://snusbase.com). This project provides an intuitive interface for accessing and managing data with Snusbase, utilizing an API key for secure authentication.
+A custom-built API wrapper for the [Snusbase API](https://snusbase.com). This project provides an intuitive interface for accessing and managing data with Snusbase, **requires** an API key.
 
 ## Features
 
