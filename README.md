@@ -10,7 +10,7 @@
    ```bash
    git clone https://github.com/wrendw/snusbase-api-wrapper.git
    ```
-2. <strong>install correct librarys</strong>:
+2. <strong>install correct library's</strong>:
    ```python
    pip install requests
    ```
