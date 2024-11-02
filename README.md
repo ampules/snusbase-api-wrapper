@@ -13,7 +13,7 @@
    ```bash
    snusbase_auth = 'YOUR-KEY'
 
-<strong>done</strong>
+# <strong>done</strong>
 
 made by <strong>wren</strong> in 20 minutes.
 discord: <strong>@spyism</strong>.
