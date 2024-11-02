@@ -8,3 +8,7 @@
 1. <strong>Clone the repository</strong>:
    ```bash
    git clone https://github.com/wrendw/snusbase-api-wrapper.git
+
+1. <strong>input your key</strong>:
+   ```bash
+   snusbase_auth = 'YOUR-KEY'
