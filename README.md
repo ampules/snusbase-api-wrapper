@@ -19,7 +19,5 @@
 3. <strong>done</strong>
 
 made by <strong>wren</strong> in just 20 minutes.
-
-| discord | website         |
-|-----------------------------|--------------------------|
-| <strong>@spyism</strong>     | <strong><a href="https://wren.lol/">wren.lol</a></strong> |
+discord: <strong>@spyism</strong>
+website: <strong><a href="https://wren.lol/">wren.lol</a></strong>
