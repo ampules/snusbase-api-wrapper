@@ -1,9 +1,10 @@
-# snusbase API wrapper
+# Snusbase API Wrapper
 
-<strong>custom built cli interface for the <a href="https://snusbase.com">Snusbase API</a></strong>.
+<strong>Custom-built CLI interface for the <a href="https://snusbase.com">Snusbase API</a>.</strong>  
+<strong>Requires a Snusbase API key.</strong>
 
-## installation
+## Installation
 
-1. <strong>clone the repository</strong>:
+1. <strong>Clone the repository</strong>:
    ```bash
    git clone https://github.com/wrendw/snusbase-api-wrapper.git
