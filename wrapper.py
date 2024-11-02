@@ -127,7 +127,7 @@ def main():
 
 def show_credits():
     clear_screen()
-    flower = r"""
+    pentagram = r"""
                                                        . ...........                      
                                                     ..(%&%&&&&&&&%(##/#,..                
                                                 ..(###,,,,.......*(%&%&%&%(..             
@@ -156,7 +156,7 @@ def show_credits():
          ...                    *%                 ,,                                   , 
           ..                                                                              
     """
-    print(Center.XCenter(flower))
+    print(Center.XCenter(pentagram))
     print(Center.XCenter("made by wren"))
     input(Center.XCenter("press enter to return to the main menu..."))
     clear_screen()
